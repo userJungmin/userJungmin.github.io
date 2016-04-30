@@ -59,13 +59,15 @@ a:hover {
 
 #description {
     position: absolute;
-    margin: 135 0 0 250; 
+    left: 20%;
+    top:20%;
     text-align: left;
 }
 
 #rank {
     position: absolute;
-    margin: 110 0 0 50; 
+    left:2%;
+    top:16%;
     font-size:40px;
     line-height: 120px;
 }
