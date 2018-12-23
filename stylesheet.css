@@ -1,20 +1,21 @@
 html { 
         background: url("http://www.musicpiya.com/wp-content/uploads/2015/02/Free-Music-Wallpapers-HD-for-PC-55.jpg") no-repeat center center fixed; 
         background-size: cover;
-    }  
+}  
     
-    a {
+a {
         color:grey;
         text-decoration:none;
-    }
-    h1 {
-        letter-spacing: 4px;
-    }       
-    a:hover {
+}
+h1 {
+        letter-spacing: 3px;
+}
+ 
+a:hover {
         color:black;
-    }
+}
     
-    #category {
+#category {
         position: fixed;
         top: -8px;
         left: -8px;
@@ -27,8 +28,8 @@ html {
         width:102%;
         text-align:center;
         z-index: 3;
-    }
-    #titleBase {
+}
+#titleBase {
         position: absolute;
         margin: -75px 0 0 -205px; 
         left: 50%;
@@ -37,8 +38,8 @@ html {
         width:410px;
         background-color:white;
         opacity:0.9;
-    }    
-    #title {
+}    
+#title {
         position: absolute;
         left: 30%;
         top: 36%;    
@@ -47,8 +48,8 @@ html {
         text-align:center;
         font-size: 30px;
         opacity:1;
-    }
-    
+}
+
     #img {
         position: absolute;
         left: 43%;
