@@ -7,7 +7,9 @@ html {
         color:grey;
         text-decoration:none;
     }
-    
+    h1 {
+        letter-spacing: 4px
+    }       
     a:hover {
         color:black;
     }
